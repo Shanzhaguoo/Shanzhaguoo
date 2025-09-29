@@ -4,7 +4,7 @@
 ## About ME
 - I'm Guo Chen, a 3DV and Graphics Lover. 
 - I am a first-year master’s student in Big Data at the School of Mathematical Sciences, Peking University, advised by Prof. [Yadong Mu](http://www.muyadong.com/).
-- I obtained my B.S. in Artificial Intelligence from Beijing Normal University, advised by Prof. [Shisheng Huang](https://shishenghuang.github.io/index/). I used to be a member of [IMCLab](https://vmcl.bnu.edu.cn/index.html) in BNU.
+- I obtained my B.S. from Beijing Normal University, advised by Prof. [Shisheng Huang](https://shishenghuang.github.io/index/). I used to be a member of [IMCLab](https://vmcl.bnu.edu.cn/index.html) in BNU.
 - I tried to turn pixels into voxels and caffeine into papers; when not exploring neural fields, I’m probably in a battle with my pillow.
 
 ## Research Interests
