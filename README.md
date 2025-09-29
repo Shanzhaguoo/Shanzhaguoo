@@ -19,7 +19,7 @@ My research interests lie in 3D computer vision, with a focus on reconstructing 
 ## Skills
 
 - Languages: Python, C/C++, Matlab
-- Major: 3DGS, Reconstruction, Diffusion and so on.
+- Major: 3DGS, Reconstruction, Generation and so on.
 
 <!-- ## Stats -->
 
