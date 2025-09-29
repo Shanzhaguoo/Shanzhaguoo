@@ -18,10 +18,10 @@
 - Languages: Python, C/C++, Matlab
 - Major: 3DGS, Reconstruction, Diffusion and so on.
 
-## Stats
+<!-- ## Stats -->
 
-<a href="https://github.com/Shanzhaguoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shanzhaguoo&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8" alt="Guo Chen's GitHub Stats" /></a>
+<!-- <a href="https://github.com/Shanzhaguoo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shanzhaguoo&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8" alt="Guo Chen's GitHub Stats" /></a> -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shanzhaguoo)
 
