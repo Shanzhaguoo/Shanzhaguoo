@@ -4,19 +4,19 @@
 ## About ME
 
 - I'm Guo Chen, a 3DCV and Graphics Lover. 
-- I am a first-year master’s student in Big Data at the School of Mathematical Sciences, Peking University.
-- I obtained my B.S. in Artificial Intelligence from the School of Artificial Intelligence, Beijing Normal University, advised by Prof. Shisheng Huang. I used to be a member of IMCLab in BNU.
+- I am a first-year master’s student in Big Data at the School of Mathematical Sciences, Peking University, advised by Prof. [Yadong Mu](http://www.muyadong.com/).
+- I obtained my B.S. in Artificial Intelligence from Beijing Normal University, advised by Prof. [Shisheng Huang](https://shishenghuang.github.io/index/). I used to be a member of [IMCLab](https://vmcl.bnu.edu.cn/index.html) in BNU.
 
 ## Publication
 - [GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving scenes](https://arxiv.org/abs/2509.19937)  
-  SIGGRAPH Asia 2025 *(first author)*
+  SIGGRAPH Asia 2025 
 - [NeuralIndicator: Implicit Surface Reconstruction from Neural Indicator Priors](https://openreview.net/pdf?id=7ckuC9C2FZ)  
-  ICML 2024 *(first student author)*
+  ICML 2024 
 
 ## Skill & Interest
 
 - Languages: Python, C/C++, Matlab
-- Major: 3DGS, Diffusion and so on.
+- Major: 3DGS, Reconstruction, Diffusion and so on.
 
 ## Stats
 
